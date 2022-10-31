@@ -1,0 +1,31 @@
+{
+    "users": [
+      {
+        "username": "Sobhan",
+        "email": "sobhan@gmail.com",
+        "phone": "9893548125",
+        "salary":"20000",
+        "id": 1
+     },
+     {
+        "username": "Deepali",
+        "email": "sobhan@gmail.com",
+        "phone": "9896547250",
+        "salary":"30000",
+        "id": 2
+     },{
+        "username": "Mayur",
+        "email": "mayur@gmail.com",
+        "phone": "9754601252",
+        "salary":"40000",
+        "id": 3
+     },{
+        "username": "Sumit",
+        "email": "sumit@gmail.com",
+        "phone": "9675463890",
+        "salary":"10000",
+        "id": 4
+     }
+      
+    ] 
+}
